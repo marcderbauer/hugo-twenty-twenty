@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "Twenty Twenty Hugo"
+title = "Marc-Anthony Bauer"
 theme = "twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -53,7 +53,7 @@ URL = "contact/"
 weight = 4
 
 [[menu.main]]
-name = "Sample Page"
+name = "Interesting Things"
 URL = "sample-page/"
 weight = 5
 
@@ -68,7 +68,7 @@ weight = 1
 [params]
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Marc-Anthony Bauer"
 
 # favicon
 [params.favicon]
@@ -81,17 +81,17 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Hey, I'm Marc-Anthony!"
 image = "images/2020-landscape-1-2.png"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "I am a Computational Linguist and Software Engineer. I am passionate about building systems at the intersection of computer science and human languages."
 
 # call to action
 [params.call_to_action]
 enable = true
-title = "Contact us for more information."
+title = "Get in contact for more information."
 content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
 button_label = "Contact Us"
 button_url = "contact/"
@@ -110,16 +110,11 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+content = "This website is a personal project of mine. It's still a work in progress, but I'm expecting everything to be done by the end fo the year. I'm open for work. If you're interested in hiring me, please [reach out](mailto:hi@marcanthonybauer.com)."
 copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
-facebook = "#"
-twitter = "#"
-instagram = "#"
-email = "#"
-linkedin = "#"
+github = "https://github.com/marcderbauer"
+email = "hello@marcanthonybauer.com"
+linkedin = "https://www.linkedin.com/in/marcanthonybauer"
