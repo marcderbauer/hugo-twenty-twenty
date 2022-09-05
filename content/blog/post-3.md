@@ -1,11 +1,11 @@
 ---
-title: "The Life I Deserve"
+title: "Why Buying Fair Trade Coffee is Not an Effective Way of Doing Good"
 date: 2020-03-14T15:40:24+06:00
 image : "images/2020-three-quarters-2.png"
 # author
 author : ["Admin"]
 # categories
-categories: ["lifestyle"]
+categories: ["Altruism", "Economics"]
 tags: ["lifestyle" , "fashion"]
 # meta description
 description: "This is meta description"

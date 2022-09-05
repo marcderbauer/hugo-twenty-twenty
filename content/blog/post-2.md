@@ -1,12 +1,12 @@
 ---
-title: "Theatre of Operations"
+title: "Analysing Mental Health Through Lyrics"
 date: 2020-03-14T15:40:24+06:00
 image : "images/2020-three-quarters-3.png"
 # author
 author : ["Admin"]
 # categories
-categories: ["operations"]
-tage: ["tags"]
+categories: ["NLP"]
+tage: ["work"]
 # meta description
 description: "This is meta description"
 # save as draft

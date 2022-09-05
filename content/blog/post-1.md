@@ -1,11 +1,11 @@
 ---
-title: "Works and Days"
+title: "The Problem of Implicit Hatespeech in NLP"
 date: 2020-03-14T15:40:24+06:00
 image : "images/2020-three-quarters-1.png"
 # author
 author : ["Admin"]
 # categories
-categories: ["Working days"]
+categories: ["NLP", "hatespeech"]
 tags: ["work", "day"]
 # meta description
 description: "This is meta description"
