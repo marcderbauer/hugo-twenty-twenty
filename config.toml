@@ -54,7 +54,7 @@ weight = 4
 
 [[menu.main]]
 name = "Interesting Things"
-URL = "sample-page/"
+URL = "interesting/"
 weight = 5
 
 # only desktop menu
