@@ -76,13 +76,13 @@ favicon = "images/favicon.png"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 # banner
 [params.banner]
 heading = "Hey, I'm Marc-Anthony!"
-image = "images/2020-landscape-1-2.png"
+image = "images/hello.jpg"
 
 # blog
 [params.blog]
