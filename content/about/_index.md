@@ -16,7 +16,7 @@ In my free time, I like to read, travel and make music in Ableton Live.
 
 <div class="read-more-button-wrap">
     <div class="action_btn">
-        <button name="CV" onclick="window.open('https://github.com/marcderbauer/hugo-twenty-twenty/raw/main/resources/_gen/assets/CV_Marc_Anthony_Bauer.pdf','_blank');" type="button">CV</button>
+        <button name="CV" onclick="window.open('https://raw.githubusercontent.com/marcderbauer/marcderbauer/main/CV_Marc_Anthony_Bauer.pdf','_blank');" type="button">CV</button>
         <button name="submit" onclick="window.open('https://www.linkedin.com/in/marcanthonybauer/','_blank');">LinkedIn</button>
     </div>
 </div>
