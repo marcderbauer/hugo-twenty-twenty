@@ -72,7 +72,7 @@ author = "Marc-Anthony Bauer"
 
 # favicon
 [params.favicon]
-favicon = "images/favicon.png"
+favicon = "images/wave.png"
 
 # cookies
 [params.cookies]
