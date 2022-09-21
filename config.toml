@@ -92,7 +92,7 @@ heading = "I am a Computational Linguist and Software Engineer. I am passionate 
 [params.call_to_action]
 enable = true
 title = "How about a coffee?"
-content = "If you want to want to go for a coffee, call on Zoom or just want to get in touch, feel free to reach out."
+content = "If you want to want to go for a coffee, call on Zoom or just want to get in touch, please feel free to reach out."
 button_label = "I'd love some coffee ☕"
 button_url = "contact/"
 

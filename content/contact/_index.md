@@ -7,8 +7,8 @@ description: "This is meta description"
 draft: false
 ---
 <div>
-    If you want to get in contact, please don't hesitate to send me a message here.
-    I'm looking forward to hearing from you!
+    If you want to get in contact, please don't hesitate to send me a message here!
+    I'm looking forward to hearing from you.
 </div>
 
 <form
