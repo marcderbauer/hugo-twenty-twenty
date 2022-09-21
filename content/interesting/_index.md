@@ -26,7 +26,7 @@ draft: false
 <p><i>19.09.2022</i></p>
 <blockquote class="wp-block-quote">
 <p>
-This GitHub repo provides an up-to-date collection of the various applications of Natural Language Processing (NLP) for social good. This is something I'm passionate about, and I implore anyone interested in the subject to look into the papers listed in this repo.
+This GitHub repo provides an up-to-date collection of the various applications of Natural Language Processing (NLP) for social good. This is something I'm passionate about, and I implore anyone interested in the subject to look into the papers listed in.
 </p>
 </blockquote>
 <hr><br>

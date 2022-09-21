@@ -91,14 +91,15 @@ heading = "I am a Computational Linguist and Software Engineer. I am passionate 
 # call to action
 [params.call_to_action]
 enable = true
-title = "Get in contact for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
+title = "How about a coffee?"
+content = "If you want to want to go for a coffee, call on Zoom or just want to get in touch, feel free to reach out."
+button_label = "I'd love some coffee ☕"
 button_url = "contact/"
+
 
 # gallery
 [params.gallery]
-enable = true
+enable = false
 
 [[params.gallery.gallery_item]]
 image = "images/2020-square-2.png"
@@ -110,7 +111,7 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About This Site"
-content = "This website is a personal project of mine. It's still a work in progress, but I'm expecting everything to be done by the end fo the year. I'm open for work. If you're interested in hiring me, please [reach out](mailto:hi@marcanthonybauer.com)."
+content = "This website is a work in progress, but I expect everything to be done by the end fo the year. I'm currently looking for new opportunities. If you are interested in what I do, then please feel free to [reach out](mailto:hi@marcanthonybauer.com)."
 copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 
 ############################# social site ########################
