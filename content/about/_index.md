@@ -12,7 +12,7 @@ draft: false
 I am especially interested in using <a href="/categories/nlp/">Natural Language Processing (NLP)</a> techniques to extract information from existing, unstructured data. I like building large-scale projects, going from customer-oriented design to deployment in a production environment.</p>
 <p>I am fascinated by cutting-edge technologies and believe in their potential to shape the world for the better.</p>
 <h2>Education</h2>
-
+<p>BSc. Computational Linguistics at Ludwigs-Maximilians-Universität Munich <p>
 
 <h2>Personal</h2>
 <p>In my free time, I like to read, travel and make music in Ableton Live.</p>
