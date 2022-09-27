@@ -12,6 +12,7 @@
 			<h2 class="entry-title heading-size-1"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 			<div class="post-meta-wrapper post-meta-single post-meta-single-top">
 				<ul class="post-meta">
+					<!--
 					<li class="post-author meta-wrapper">
 						<span class="meta-icon">
 							<span class="screen-reader-text">Post author</span>
@@ -24,7 +25,7 @@
 							By {{ range .Params.Author }}
 							<a href="{{ `author/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
 							{{ end }} </span>
-					</li>
+					</li>-->
 					<li class="post-date meta-wrapper">
 						<span class="meta-icon">
 							<span class="screen-reader-text">Post date</span>
@@ -37,6 +38,7 @@
 							{{ .PublishDate.Format "January 02, 2006"}}
 						</span>
 					</li>
+					<!--
 					<li class="post-comment-link meta-wrapper">
 						<span class="meta-icon">
 							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg"
@@ -48,6 +50,7 @@
 							<a href="{{.Permalink}}#comments">Comments<span class="screen-reader-text"> on
 									{{ .Title }}</span></a> </span>
 					</li>
+					-->
 				</ul>
 			</div><!-- .post-meta-wrapper -->
 		</div><!-- .entry-header-inner -->
