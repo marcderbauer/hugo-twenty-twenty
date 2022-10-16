@@ -81,13 +81,13 @@ On first inspection, there are three main issues:
 
 1. Videos being in foreign languages i.e. non-English
     
-    ```python
+    ```md
     Dibattito: la settimana lavorativa da 4 giorni in Italia è possibile?
     ```
     
 2. Video series, creating multiple entries for essentially the same title
     
-    ```python
+    ```md
     North Korean Labor Camps (Part 1 of 7)
     North Korean Labor Camps (Part 2 of 7)
     North Korean Labor Camps (Part 3 of 7)
@@ -207,7 +207,7 @@ Now that the data is fully tokenised and batched, we can start the fine-tuning.
 
 Fine-tuning is a technique of *transfer learning*, adjusting a model trained on one task to function on another. As the name suggests, it *transfers* the knowledge of a Large Language Model, such as BLOOM, onto a highly specialised task, such as generating YouTube Titles. 
 
-Hugging Face provides a Trainer class, which only needs the model, the dataset and the desired hyperparameters for fine-tuning. This makes the process fairly straightforward. 
+Hugging Face provides a <code>Trainer</code> class, which only needs the model, the dataset and the desired hyperparameters for fine-tuning. This makes the process fairly straightforward. 
 
 Our task is to fine-tune the model, not to train it from scratch. We thus opt for a small `learning_rate` of 0.00002. To prevent overfitting we add regularisation with `weight_decay=0.01`. The 10 epochs are somewhat arbitrary, as we logged the training in Weights and Biases and can just choose the best epoch according to the train and evaluation loss.
 
