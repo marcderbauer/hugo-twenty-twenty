@@ -1,7 +1,7 @@
 ---
 title: "Generating Vice Headlines using Bloom"
 date: 2022-10-14T00:00:00+00:00
-image : "images/Bloom.png"
+image : "images/Bloom.jpeg"
 # Img source: 
 # author
 author : ["Admin"]
@@ -9,11 +9,10 @@ author : ["Admin"]
 categories: ["NLP", "Project"]
 tags: ["NLP","Hugging Face"]
 # meta description
-description: "This is meta description"
+description: "How to Generate YouTube Titles using BLOOM"
 # save as draft
 draft: false
 ---
-<a href="https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/">Image Source</a>  
 
 ## Motivation
 
@@ -277,3 +276,5 @@ If you have any thoughts, suggestions or improvements, I would be happy to hear 
 [![Demo](https://img.shields.io/badge/-Demo-green?style=flat)](https://huggingface.co/spaces/marcderbauer/vice-headlines )
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@marcanthonybauer.com?subject=[BLOOM]%20)
 </td>
+
+<a href="https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/">Cover Image Source</a>  
